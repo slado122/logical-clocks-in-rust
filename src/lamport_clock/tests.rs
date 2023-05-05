@@ -1,4 +1,4 @@
-use crate::*;
+use crate::lamport_clock::*;
 
 #[test]
 fn test_clocks_are_updated_on_request() {
